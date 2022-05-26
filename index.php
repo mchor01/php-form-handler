@@ -17,10 +17,6 @@
         ';
       }
     ?>
-
-    <?php
-    echo '<p>This is a change from VSCode!</p>';
-    ?>
     
   </body>
 </html>
